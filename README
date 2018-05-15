@@ -1,0 +1,5 @@
+This is the fourth programming assignment in Andrew Ng's Machine Learning course
+on Coursera. This project focuses on the implementation of forward and back 
+propagation to train a neural network to correctly read handwritten numbers.
+More information on this project and the course can be found on 
+www.coursera.org/learn/machine-learning 
